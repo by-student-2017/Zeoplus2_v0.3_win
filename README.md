@@ -1,4 +1,4 @@
-# Zeoplus2_v0.3_win
+# Zeo++-0.3 (cygwin on windows10)
 
 
 ## References
