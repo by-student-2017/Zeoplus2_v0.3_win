@@ -12,9 +12,9 @@ plot "case.psd_histo" u ($1*0.1):4 w l t ""
 
 # pause -1
 
-#set terminal png
-#set output "PSD.png"
-#replot
+set terminal png
+set output "PSD.png"
+replot
 
 # set terminal postscript color enhanced lw 2
 # set out "PSD.ps"

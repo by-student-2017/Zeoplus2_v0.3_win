@@ -4,7 +4,7 @@ _audit_creation_method RASPA-1.0
 _audit_creation_date 2011-3-6
 _audit_author_name 'David Dubbeldam'
 
-_citation_author_name        'K.S. Park, Z. Ni, A.P. Cote, J.Y. Choi, R.D. Huang, F.J. Uribe-Romo, H.K. Chae, M. O‚ÄôKeeffe, and O.M. Yaghi'
+_citation_author_name        'K.S. Park, Z. Ni, A.P. Cote, J.Y. Choi, R.D. Huang, F.J. Uribe-Romo, H.K. Chae, M. OÅfKeeffe, and O.M. Yaghi'
 _citation_title              'Exceptional chemical and thermal stability of zeolitic imidazolate frameworks'
 _citation_journal_abbrev     'P. Natl. Acad. Sci. USA'
 _citation_journal_volume     103
@@ -311,5 +311,4 @@ N1       N      0.81722    0.46832    0.09027    0
 C2       C      0.1875     0.60086    0.13149    0 
 H2       H      0.2234     0.6411     0.1223     0 
 N1       N      0.18278    0.53168    0.09027    0 
-
 
