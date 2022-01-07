@@ -1,0 +1,3 @@
+@ ZnHBDC.freev Unitcell_volume: 4269.52   Density: 0.866753   POAV_A^3: 2369.67 POAV_Volume_fraction: 0.55502 POAV_cm^3/g: 0.640344 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: ZnHBDC.freev	0.866753	1.657	50000	0.2236	0	0.55502	0	0.10234	0.34264
