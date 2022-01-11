@@ -10,6 +10,6 @@ echo %time% && .\..\..\code\network.exe -r uff.rad -ha -volpo 1.32 1.32 50000 %F
 echo %time% && .\..\..\code\network.exe -r uff.rad -ha -volpo 1.657 1.657 50000 %FILE%.freev %FILE%.cif && echo "time-%FILE%-freev"
 echo %time% && .\..\..\code\network.exe -r uff.rad -ha -psd 1.0 1.0 50000 %FILE%.psd %FILE%.cif && echo "time-%FILE%-psd"
 
-copy *.cif case.cif
+copy *.psd case.psd_histo
 plot.gpl
 del case.cif
